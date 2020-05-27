@@ -1,4 +1,4 @@
-package com.satya.springboot.cruddemospringdatajpa.entity;
+package com.satya.springboot.cruddemospringdatarest.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
